@@ -1,0 +1,3 @@
+base  ff0000 ff0086 ec00ff 7700ff 0047ff 00c7ff 00f4ff 00ff7f 0e6f09 51cb00 b3cb00 cb9b00 cb5d00
+dir   left
+cycle eefaff d8f5ff c0efff a4e8ff 8ee2ff 8de1ff 55d2ff 88e0ff 9fe6ff b6ecff d2f3ff e8f9ff ffffff
