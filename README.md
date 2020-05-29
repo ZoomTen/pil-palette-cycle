@@ -26,7 +26,6 @@ cycle eefaff d8f5ff c0efff a4e8ff 8ee2ff 8de1ff 55d2ff 88e0ff 9fe6ff b6ecff d2f3
 * The `base` command specifies which colors to use for the base palette, sequentially.
 * `dir` tells the direction which the palette should cycle through
 * `cycle` command specifies which colors to map to each entry specified in `base`. The amount of colors here **must** match the `base` colors!
-A simple text file by the name
 
 ## Generating the animation
 Explanation of `palette_cycle.sh` follows...
